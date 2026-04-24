@@ -55,7 +55,7 @@
 </p>
 
 
-  <img src="https://tse3.mm.bing.net/th/id/OIP.HUVzuVLGK9hzIlBhK6BM0gHaNN?pid=ImgDet&w=184&h=328&c=7&dpr=1.3&o=7&rm=3&style=flat-square&color=blue" alt="Profile Visit"/>
+  <img src="https://tse3.mm.bing.net/th/id/OIP.HUVzuVLGK9hzIlBhK6BM0gHaNN?pid=ImgDet&w=184&h=328&c=7&dpr=1.3&o=7&rm=3; &style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
 <br clear="all" />
